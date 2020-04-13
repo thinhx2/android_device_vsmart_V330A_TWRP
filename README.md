@@ -1,0 +1,1 @@
+# android_device_vsmart_V330A_TWRP
